@@ -71,19 +71,14 @@ const CONFIG = {
   },
   skills: [
     'PHP',
-    'Laravel',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
     'MySQL',
-    'PostgreSQL',
+    'NoSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'HTML',
   ],
   experiences: [
     {
@@ -111,16 +106,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Washington',
+      degree: 'BA',
+      from: '2019',
+      to: '2023',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Per Scholas',
+      degree: 'Certificate',
+      from: '2023',
+      to: '2024',
     },
   ],
   publications: [
