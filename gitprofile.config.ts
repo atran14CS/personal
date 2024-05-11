@@ -58,26 +58,12 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/akiratran/',
+    LeetCode: 'https://leetcode.com/u/akira_kun/',
+    dev: 'atran14CS',
+    website: 'https://atran14cs.github.io/personal/',
+    github: 'https://github.com/atran14CS',
+    email: 'akiratrandev@gmail.com',
   },
   resume: {
     fileUrl:
