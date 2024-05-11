@@ -1,4 +1,5 @@
 // gitprofile.config.ts
+//added to have success deploy
 
 const CONFIG = {
   github: {
